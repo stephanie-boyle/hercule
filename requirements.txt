@@ -1,0 +1,4 @@
+requests
+pandas
+pykeen
+urllib3 < 2
