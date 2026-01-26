@@ -3,6 +3,8 @@ from src.utils.config_loader import *
 from src.utils.serialiser import save_json_records  
 from src.extraction.client import fetch_gho_data
 from src.extraction.data_processor import *
+from src.graph.context_builder import fetch_biomedical_context, create_fused_factory
+from src.graph.graph_engine import train_knowledge_graph_model
 
 import logging
 import os
@@ -61,12 +63,11 @@ def run_surveillance_pipeline():
             logger.info(f"Filtered to {len(latest_records)} latest records since 2015.")
 
             # save this data before creating triples
-            saved_path = save_json_records(
+            save_json_records(
                 data=latest_records,
                 name=name,
                 subfolder=current_date
             )
-            logger.info(f"Saved cleaned data to {saved_path}.")
 
             triples = build_triples(
                 df=latest_records,
@@ -90,5 +91,34 @@ def run_surveillance_pipeline():
 
     return all_triples
 
+
+
 if __name__ == "__main__":
+    logging.info("Starting HERCULE surveillance pipeline execution.")
     who_triples = run_surveillance_pipeline()
+    if not who_triples:
+        logging.error("No surveillance triples were generated. Aborting pipeline.")
+    else:
+        # 2. Preparation Phase: Identify unique diseases to find treatments for
+        # Extract the Hetionet IDs (tail of the triple) from our WHO findings
+        active_diseases = list(set([t[2] for t in who_triples]))
+        logging.info(f"Identified {len(active_diseases)} unique diseases from WHO data for context building.")
+        
+        # 3. Fusion Phase: Use the Knowledge Integrator
+        # Pulls CtD/CpD relations from Hetionet for these specific diseases
+        bio_triples = fetch_biomedical_context(active_diseases)
+        logging.info(f"Retrieved {len(bio_triples)} biomedical triples from Hetionet.")
+
+        # Merge WHO and Hetionet into a PyKEEN TriplesFactory
+        tf = create_fused_factory(who_triples, bio_triples)
+        logging.info(f"Fused triples factory contains {tf.num_triples} triples total.")
+
+        # 4. Analysis Phase: Use the Model Engine
+        # Train the RotatE model on the fused graph
+        training_results = train_knowledge_graph_model(
+            triples_factory=tf,
+            epochs=200,
+            embedding_dim=100
+        )
+
+        logging.info("HERCULE pipeline execution complete.")
