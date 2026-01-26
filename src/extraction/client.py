@@ -9,7 +9,3 @@ def fetch_gho_data(indicator_code):
         return response.json().get('value', [])
     except Exception as e:
         return []
-
-
-test = fetch_gho_data('WHS3_40')  
-print(test)

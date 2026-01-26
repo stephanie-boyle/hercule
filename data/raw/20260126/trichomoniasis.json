@@ -1,0 +1,37 @@
+[
+  {
+    "Country": "AFR",
+    "Year": 2020,
+    "Cases": 32413.0
+  },
+  {
+    "Country": "AMR",
+    "Year": 2020,
+    "Cases": 18174.0
+  },
+  {
+    "Country": "EMR",
+    "Year": 2020,
+    "Cases": 924.0
+  },
+  {
+    "Country": "EUR",
+    "Year": 2020,
+    "Cases": 378.0
+  },
+  {
+    "Country": "GLOBAL",
+    "Year": 2020,
+    "Cases": 10104.0
+  },
+  {
+    "Country": "SEAR",
+    "Year": 2020,
+    "Cases": 14511.0
+  },
+  {
+    "Country": "WPR",
+    "Year": 2020,
+    "Cases": 17451.0
+  }
+]
