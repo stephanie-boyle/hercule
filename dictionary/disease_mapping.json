@@ -1,0 +1,107 @@
+[
+    {
+        "who_code": "WHS3_48",
+        "biological_name": "Malaria",
+        "hetionet_id": "Disease::DOID:12365"
+    },
+    {
+        "who_code": "HIV_0000000001",
+        "biological_name": "HIV/AIDS",
+        "hetionet_id": "Disease::DOID:635"
+    },
+    {
+        "who_code": "WHS3_522",
+        "biological_name": "Tuberculosis",
+        "hetionet_id": "Disease::DOID:399"
+    },
+    {
+        "who_code": "WHS3_40",
+        "biological_name": "Cholera",
+        "hetionet_id": "Disease::DOID:10304"
+    },
+    {
+        "who_code": "WHS3_62",
+        "biological_name": "Measles",
+        "hetionet_id": "Disease::DOID:10255"
+    },
+    {
+        "who_code": "WHS3_57",
+        "biological_name": "Rubella",
+        "hetionet_id": "Disease::DOID:10252"
+    },
+    {
+        "who_code": "WHS3_45",
+        "biological_name": "Leprosy",
+        "hetionet_id": "Disease::DOID:10718"
+    },
+    {
+        "who_code": "WHS3_41",
+        "biological_name": "Diphtheria",
+        "hetionet_id": "Disease::DOID:11405"
+    },
+    {
+        "who_code": "WHS3_46",
+        "biological_name": "Tetanus",
+        "hetionet_id": "Disease::DOID:12386"
+    },
+    {
+        "who_code": "WHS3_43",
+        "biological_name": "Pertussis",
+        "hetionet_id": "Disease::DOID:1195"
+    },
+    {
+        "who_code": "WHS3_53",
+        "biological_name": "Mumps",
+        "hetionet_id": "Disease::DOID:10254"
+    },
+    {
+        "who_code": "WHS3_50",
+        "biological_name": "Yellow Fever",
+        "hetionet_id": "Disease::DOID:9682"
+    },
+    {
+        "who_code": "WHS3_49",
+        "biological_name": "Poliomyelitis",
+        "hetionet_id": "Disease::DOID:4953"
+    },
+    {
+        "who_code": "WHS3_51",
+        "biological_name": "Influenza",
+        "hetionet_id": "Disease::DOID:8469"
+    },
+    {
+        "who_code": "WHS3_47",
+        "biological_name": "Meningitis",
+        "hetionet_id": "Disease::DOID:1692"
+    },
+    {
+        "who_code": "WHS3_52",
+        "biological_name": "Plague",
+        "hetionet_id": "Disease::DOID:3450"
+    },
+    {
+        "who_code": "WHS3_42",
+        "biological_name": "Japanese encephalitis",
+        "hetionet_id": "Disease::DOID:10844"
+    },
+    {
+        "who_code": "STI_GONORRHEA_CASES_NUM",
+        "biological_name": "Gonorrhea",
+        "hetionet_id": "Disease::DOID:7551"
+    },
+    {
+        "who_code": "STI_CHLAMYDIA_CASES_NUM",
+        "biological_name": "Chlamydia",
+        "hetionet_id": "Disease::DOID:11263"
+    },
+    {
+        "who_code": "STI_SYPHILIS_CASES_NUM",
+        "biological_name": "Syphilis",
+        "hetionet_id": "Disease::DOID:4156"
+    },
+    {
+        "who_code": "STI_TRICHOMONIASIS_PREVALENTCASES",
+        "biological_name": "Trichomoniasis",
+        "hetionet_id": "Disease::DOID:2309"
+    }
+]
