@@ -73,3 +73,4 @@ def build_triples(df, hetionet_id, threshold):
         (f"Country::{row['Country']}", 'has_active_outbreak', hetionet_id)
         for _, row in df[active_mask].iterrows()
     ]
+

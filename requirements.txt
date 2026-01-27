@@ -2,3 +2,7 @@ requests
 pandas
 pykeen
 urllib3 < 2
+biothings_client
+matplotlib
+dotenv
+neo4j~=5.28

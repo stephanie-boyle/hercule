@@ -1,0 +1,877 @@
+[
+  {
+    "Country": "AFG",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "AFR",
+    "Year": 2018,
+    "Cases": 65.0
+  },
+  {
+    "Country": "AGO",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ALB",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "AMR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "AND",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ARE",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ARG",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ARM",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "AUS",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "AUT",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "AZE",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BDI",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BEL",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BEN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BFA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BGD",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BGR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BHR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BIH",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BLR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BOL",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BRA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BRN",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BTN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BWA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CAF",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CAN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CHE",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CHL",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CHN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CIV",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CMR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "COD",
+    "Year": 2018,
+    "Cases": 20.0
+  },
+  {
+    "Country": "COG",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "COL",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "COM",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CPV",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CRI",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CUB",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CYP",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CZE",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "DEU",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "DJI",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "DNK",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "DOM",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "DZA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ECU",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "EGY",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "EMR",
+    "Year": 2018,
+    "Cases": 12.0
+  },
+  {
+    "Country": "ERI",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ESP",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "EST",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ETH",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "EUR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "FIN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "FRA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GAB",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GBR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GEO",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GHA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GIN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GLOBAL",
+    "Year": 2018,
+    "Cases": 104.0
+  },
+  {
+    "Country": "GMB",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GNB",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GNQ",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GRC",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GTM",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "HND",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "HRV",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "HTI",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "HUN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "IDN",
+    "Year": 2018,
+    "Cases": 1.0
+  },
+  {
+    "Country": "IND",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "IRL",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "IRN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "IRQ",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ISL",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ISR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ITA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "JOR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "JPN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "KAZ",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "KEN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "KGZ",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "KHM",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "KOR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "KWT",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "LAO",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "LBN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "LBR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "LBY",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "LKA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "LSO",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "LTU",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "LUX",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "LVA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MAR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MCO",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MDA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MDG",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MDV",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MEX",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MKD",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MLI",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MLT",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MMR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MNE",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MNG",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MOZ",
+    "Year": 2018,
+    "Cases": 1.0
+  },
+  {
+    "Country": "MRT",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MUS",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MWI",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MYS",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "NAM",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "NER",
+    "Year": 2018,
+    "Cases": 10.0
+  },
+  {
+    "Country": "NGA",
+    "Year": 2018,
+    "Cases": 34.0
+  },
+  {
+    "Country": "NIC",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "NLD",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "NOR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "NPL",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "NZL",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "OMN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PAK",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PAN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PER",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PHL",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PNG",
+    "Year": 2018,
+    "Cases": 26.0
+  },
+  {
+    "Country": "POL",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PRK",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PRT",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PRY",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "QAT",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ROU",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "RUS",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "RWA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SAU",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SDN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SEAR",
+    "Year": 2018,
+    "Cases": 1.0
+  },
+  {
+    "Country": "SEN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SGP",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SLE",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SLV",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SMR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SOM",
+    "Year": 2018,
+    "Cases": 12.0
+  },
+  {
+    "Country": "SRB",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SSD",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "STP",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SVK",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SVN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SWE",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SWZ",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SYC",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SYR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TCD",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TGO",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "THA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TJK",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TKM",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TLS",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TUN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TUR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TZA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "UGA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "UKR",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "URY",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "USA",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "UZB",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "VEN",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "VNM",
+    "Year": 2017,
+    "Cases": 0.0
+  },
+  {
+    "Country": "WPR",
+    "Year": 2018,
+    "Cases": 26.0
+  },
+  {
+    "Country": "YEM",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ZAF",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ZMB",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ZWE",
+    "Year": 2018,
+    "Cases": 0.0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  [
+    "Country::AFR",
+    "has_active_outbreak",
+    "Disease::DOID:2309"
+  ],
+  [
+    "Country::AMR",
+    "has_active_outbreak",
+    "Disease::DOID:2309"
+  ],
+  [
+    "Country::EMR",
+    "has_active_outbreak",
+    "Disease::DOID:2309"
+  ],
+  [
+    "Country::GLOBAL",
+    "has_active_outbreak",
+    "Disease::DOID:2309"
+  ],
+  [
+    "Country::SEAR",
+    "has_active_outbreak",
+    "Disease::DOID:2309"
+  ],
+  [
+    "Country::WPR",
+    "has_active_outbreak",
+    "Disease::DOID:2309"
+  ]
+]
