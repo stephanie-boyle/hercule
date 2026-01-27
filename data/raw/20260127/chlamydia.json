@@ -1,0 +1,227 @@
+[
+  {
+    "Country": "ALB",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ARM",
+    "Year": 2019,
+    "Cases": 779.0
+  },
+  {
+    "Country": "AUS",
+    "Year": 2022,
+    "Cases": 93777.0
+  },
+  {
+    "Country": "AZE",
+    "Year": 2019,
+    "Cases": 1910.0
+  },
+  {
+    "Country": "BEL",
+    "Year": 2023,
+    "Cases": 10179.0
+  },
+  {
+    "Country": "BGR",
+    "Year": 2023,
+    "Cases": 40.0
+  },
+  {
+    "Country": "BIH",
+    "Year": 2017,
+    "Cases": 197.0
+  },
+  {
+    "Country": "BLR",
+    "Year": 2019,
+    "Cases": 4095.0
+  },
+  {
+    "Country": "CAN",
+    "Year": 2022,
+    "Cases": 116474.0
+  },
+  {
+    "Country": "CYP",
+    "Year": 2023,
+    "Cases": 63.0
+  },
+  {
+    "Country": "DNK",
+    "Year": 2023,
+    "Cases": 37111.0
+  },
+  {
+    "Country": "ESP",
+    "Year": 2023,
+    "Cases": 36967.0
+  },
+  {
+    "Country": "EST",
+    "Year": 2023,
+    "Cases": 985.0
+  },
+  {
+    "Country": "FIN",
+    "Year": 2023,
+    "Cases": 17542.0
+  },
+  {
+    "Country": "FRA",
+    "Year": 2023,
+    "Cases": 19122.0
+  },
+  {
+    "Country": "GBR",
+    "Year": 2019,
+    "Cases": 258904.0
+  },
+  {
+    "Country": "GEO",
+    "Year": 2019,
+    "Cases": 1559.0
+  },
+  {
+    "Country": "GRC",
+    "Year": 2023,
+    "Cases": 96.0
+  },
+  {
+    "Country": "HRV",
+    "Year": 2023,
+    "Cases": 147.0
+  },
+  {
+    "Country": "HUN",
+    "Year": 2023,
+    "Cases": 677.0
+  },
+  {
+    "Country": "IRL",
+    "Year": 2023,
+    "Cases": 12656.0
+  },
+  {
+    "Country": "ISL",
+    "Year": 2023,
+    "Cases": 1933.0
+  },
+  {
+    "Country": "ITA",
+    "Year": 2023,
+    "Cases": 870.0
+  },
+  {
+    "Country": "KAZ",
+    "Year": 2019,
+    "Cases": 2506.0
+  },
+  {
+    "Country": "KGZ",
+    "Year": 2015,
+    "Cases": 1736.0
+  },
+  {
+    "Country": "LIE",
+    "Year": 2023,
+    "Cases": 38.0
+  },
+  {
+    "Country": "LTU",
+    "Year": 2023,
+    "Cases": 260.0
+  },
+  {
+    "Country": "LUX",
+    "Year": 2023,
+    "Cases": 1636.0
+  },
+  {
+    "Country": "LVA",
+    "Year": 2023,
+    "Cases": 1108.0
+  },
+  {
+    "Country": "MKD",
+    "Year": 2018,
+    "Cases": 95.0
+  },
+  {
+    "Country": "MLT",
+    "Year": 2023,
+    "Cases": 422.0
+  },
+  {
+    "Country": "MNE",
+    "Year": 2017,
+    "Cases": 15.0
+  },
+  {
+    "Country": "NLD",
+    "Year": 2023,
+    "Cases": 24048.0
+  },
+  {
+    "Country": "NOR",
+    "Year": 2023,
+    "Cases": 28137.0
+  },
+  {
+    "Country": "NZL",
+    "Year": 2023,
+    "Cases": 28166.0
+  },
+  {
+    "Country": "POL",
+    "Year": 2023,
+    "Cases": 977.0
+  },
+  {
+    "Country": "PRT",
+    "Year": 2023,
+    "Cases": 1404.0
+  },
+  {
+    "Country": "ROU",
+    "Year": 2023,
+    "Cases": 24.0
+  },
+  {
+    "Country": "SRB",
+    "Year": 2018,
+    "Cases": 879.0
+  },
+  {
+    "Country": "SVK",
+    "Year": 2023,
+    "Cases": 1037.0
+  },
+  {
+    "Country": "SVN",
+    "Year": 2023,
+    "Cases": 464.0
+  },
+  {
+    "Country": "SWE",
+    "Year": 2023,
+    "Cases": 32256.0
+  },
+  {
+    "Country": "TJK",
+    "Year": 2018,
+    "Cases": 47.0
+  },
+  {
+    "Country": "UKR",
+    "Year": 2019,
+    "Cases": 13907.0
+  },
+  {
+    "Country": "USA",
+    "Year": 2023,
+    "Cases": 1648568.0
+  }
+]
