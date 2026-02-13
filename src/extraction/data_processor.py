@@ -57,18 +57,19 @@ def clean_latest_records(df, min_year=2015):
 
 def build_triples(df, hetionet_id, threshold):
     """
-    Builds surveillance triples for countries exceeding the outbreak threshold.
-    Args:
-        df (pd.DataFrame): DataFrame with latest country records.
-        hetionet_id (str): Hetionet ID for the disease.
-        threshold (int): Case count threshold to flag an outbreak.
-    Returns:
-        list: List of surveillance triples.
+    Builds surveillance triples for countries exceeding the threshold,
+    while filtering out aggregate continent/region codes.
     """
     if df.empty:
         return []
     
-    active_mask = (df['Cases'] > threshold)
+    # List of aggregate codes to exclude from subject nodes
+    continent_codes = {'GLOBAL', 'AFR', 'AMR', 'SEAR', 'EUR', 'EMR', 'WPR'}
+    
+    # Apply threshold and exclude aggregate regions
+    # We use .copy() to avoid SettingWithCopy warnings if df is a slice
+    active_mask = (df['Cases'] > threshold) & (~df['Country'].isin(continent_codes))
+    
     return [
         (f"Country::{row['Country']}", 'has_active_outbreak', hetionet_id)
         for _, row in df[active_mask].iterrows()

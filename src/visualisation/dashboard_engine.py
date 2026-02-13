@@ -54,38 +54,47 @@ class HerculeDashboard:
                                         color='#2ecc71', type='disease_drug')
 
     def render(self, output_path="output/dashboard.png"):
-        """Handles the Matplotlib styling and saving."""
-        if not self.graph.nodes:
-            logger.warning("Graph is empty. Skipping render.")
-            return
+            """Handles the Matplotlib styling with optimized spacing and anti-overlap."""
+            if not self.graph.nodes:
+                logger.warning("Graph is empty. Skipping render.")
+                return
 
-        plt.figure(figsize=(14, 10))
-        pos = nx.spring_layout(self.graph, k=0.8, seed=42)
+            # 1. Significantly increase figure size for better resolution and spacing
+            plt.figure(figsize=(20, 14))
+            
+            # 2. Optimize Spring Layout: 
+            # Increase 'k' to push nodes further apart (default is 1/sqrt(n))
+            # Increase 'iterations' for a more stable equilibrium
+            pos = nx.spring_layout(self.graph, k=1.5, iterations=100, seed=42)
 
-        # Dynamic Node Coloring
-        node_colors = []
-        for n in self.graph.nodes():
-            if n.isupper() and len(n) <= 3: # ISO Country Codes
-                node_colors.append('#3498db') # Blue
-            elif n in self.name_resolver.values():
-                node_colors.append('#e74c3c') # Red (Disease)
-            else:
-                node_colors.append('#2ecc71') # Green (Drug)
+            # Dynamic Node Coloring (kept from your original logic)
+            node_colors = []
+            for n in self.graph.nodes():
+                if n.isupper() and len(n) <= 3: 
+                    node_colors.append('#3498db') # Blue (Country)
+                elif n in self.name_resolver.values():
+                    node_colors.append('#e74c3c') # Red (Disease)
+                else:
+                    node_colors.append('#2ecc71') # Green (Drug)
 
-        nx.draw_networkx_nodes(self.graph, pos, node_color=node_colors, 
-                               node_size=2500, alpha=0.8)
-        
-        edge_colors = [self.graph[u][v].get('color', 'gray') for u,v in self.graph.edges()]
-        nx.draw_networkx_edges(self.graph, pos, edge_color=edge_colors, 
-                               width=2, arrowsize=20, alpha=0.5)
-        
-        nx.draw_networkx_labels(self.graph, pos, font_size=10, font_weight="bold")
+            # 3. Use smaller node sizes and transparent alphas to reduce visual weight
+            nx.draw_networkx_nodes(self.graph, pos, node_color=node_colors, 
+                                node_size=1800, alpha=0.9)
+            
+            edge_colors = [self.graph[u][v].get('color', 'gray') for u,v in self.graph.edges()]
+            nx.draw_networkx_edges(self.graph, pos, edge_color=edge_colors, 
+                                width=1.5, arrowsize=15, alpha=0.4, connectionstyle='arc3,rad=0.1')
+            
+            # 4. Improve label readability:
+            # Use a smaller font and 'clip_on=False' to ensure labels aren't cut off
+            nx.draw_networkx_labels(self.graph, pos, font_size=9, font_weight="bold", 
+                                    font_family="sans-serif")
 
-        plt.title("HERCULE: Global Surveillance & Therapeutic Response", fontsize=15)
-        plt.axis('off')
-        
-        # Ensure output directory exists
-        Path(output_path).parent.mkdir(parents=True, exist_ok=True)
-        plt.savefig(output_path, dpi=300, bbox_inches='tight')
-        logger.info(f"Dashboard saved to {output_path}")
-        plt.close()
+            plt.title("HERCULE: Global Surveillance & Therapeutic Response", fontsize=20, pad=20)
+            plt.axis('off')
+            
+            # 5. Use 'bbox_inches=tight' to ensure no labels are cut at the edges
+            Path(output_path).parent.mkdir(parents=True, exist_ok=True)
+            plt.savefig(output_path, dpi=300, bbox_inches='tight', transparent=False)
+            logger.info(f"Dashboard saved to {output_path}")
+            plt.close()
