@@ -1,0 +1,1122 @@
+[
+  {
+    "Country": "ABW",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "AFG",
+    "Year": 2024,
+    "Cases": 9769.0
+  },
+  {
+    "Country": "AFR",
+    "Year": 2024,
+    "Cases": 396226.0
+  },
+  {
+    "Country": "AGO",
+    "Year": 2024,
+    "Cases": 619.0
+  },
+  {
+    "Country": "AIA",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ALB",
+    "Year": 2024,
+    "Cases": 212.0
+  },
+  {
+    "Country": "AMR",
+    "Year": 2024,
+    "Cases": 165.0
+  },
+  {
+    "Country": "AND",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ARE",
+    "Year": 2024,
+    "Cases": 559.0
+  },
+  {
+    "Country": "ARG",
+    "Year": 2023,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ARM",
+    "Year": 2024,
+    "Cases": 561.0
+  },
+  {
+    "Country": "ATG",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "AUS",
+    "Year": 2024,
+    "Cases": 57.0
+  },
+  {
+    "Country": "AUT",
+    "Year": 2024,
+    "Cases": 542.0
+  },
+  {
+    "Country": "AZE",
+    "Year": 2024,
+    "Cases": 18584.0
+  },
+  {
+    "Country": "BDI",
+    "Year": 2024,
+    "Cases": 2741.0
+  },
+  {
+    "Country": "BEL",
+    "Year": 2024,
+    "Cases": 526.0
+  },
+  {
+    "Country": "BEN",
+    "Year": 2024,
+    "Cases": 785.0
+  },
+  {
+    "Country": "BFA",
+    "Year": 2024,
+    "Cases": 4397.0
+  },
+  {
+    "Country": "BGD",
+    "Year": 2024,
+    "Cases": 247.0
+  },
+  {
+    "Country": "BGR",
+    "Year": 2024,
+    "Cases": 27.0
+  },
+  {
+    "Country": "BHR",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "BHS",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BIH",
+    "Year": 2024,
+    "Cases": 7957.0
+  },
+  {
+    "Country": "BLR",
+    "Year": 2024,
+    "Cases": 754.0
+  },
+  {
+    "Country": "BLZ",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BMU",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "BOL",
+    "Year": 2024,
+    "Cases": 4.0
+  },
+  {
+    "Country": "BRA",
+    "Year": 2024,
+    "Cases": 5.0
+  },
+  {
+    "Country": "BRB",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BRN",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BTN",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "BWA",
+    "Year": 2024,
+    "Cases": 3.0
+  },
+  {
+    "Country": "CAF",
+    "Year": 2024,
+    "Cases": 125.0
+  },
+  {
+    "Country": "CAN",
+    "Year": 2024,
+    "Cases": 147.0
+  },
+  {
+    "Country": "CHE",
+    "Year": 2024,
+    "Cases": 97.0
+  },
+  {
+    "Country": "CHL",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CHN",
+    "Year": 2024,
+    "Cases": 1272.0
+  },
+  {
+    "Country": "CIV",
+    "Year": 2024,
+    "Cases": 1872.0
+  },
+  {
+    "Country": "CMR",
+    "Year": 2024,
+    "Cases": 863.0
+  },
+  {
+    "Country": "COD",
+    "Year": 2024,
+    "Cases": 311500.0
+  },
+  {
+    "Country": "COG",
+    "Year": 2024,
+    "Cases": 483.0
+  },
+  {
+    "Country": "COK",
+    "Year": 2019,
+    "Cases": 0.0
+  },
+  {
+    "Country": "COL",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "COM",
+    "Year": 2024,
+    "Cases": 17.0
+  },
+  {
+    "Country": "CPV",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CRI",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CUB",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CUW",
+    "Year": 2019,
+    "Cases": 1.0
+  },
+  {
+    "Country": "CYM",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "CYP",
+    "Year": 2024,
+    "Cases": 27.0
+  },
+  {
+    "Country": "CZE",
+    "Year": 2024,
+    "Cases": 35.0
+  },
+  {
+    "Country": "DEU",
+    "Year": 2024,
+    "Cases": 645.0
+  },
+  {
+    "Country": "DJI",
+    "Year": 2024,
+    "Cases": 60.0
+  },
+  {
+    "Country": "DMA",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "DNK",
+    "Year": 2024,
+    "Cases": 25.0
+  },
+  {
+    "Country": "DOM",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "DZA",
+    "Year": 2024,
+    "Cases": 488.0
+  },
+  {
+    "Country": "ECU",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "EGY",
+    "Year": 2024,
+    "Cases": 91.0
+  },
+  {
+    "Country": "EMR",
+    "Year": 2024,
+    "Cases": 78765.0
+  },
+  {
+    "Country": "ERI",
+    "Year": 2024,
+    "Cases": 10.0
+  },
+  {
+    "Country": "ESP",
+    "Year": 2024,
+    "Cases": 227.0
+  },
+  {
+    "Country": "EST",
+    "Year": 2024,
+    "Cases": 4.0
+  },
+  {
+    "Country": "ETH",
+    "Year": 2024,
+    "Cases": 31044.0
+  },
+  {
+    "Country": "EUR",
+    "Year": 2024,
+    "Cases": 148974.0
+  },
+  {
+    "Country": "FIN",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "FJI",
+    "Year": 2019,
+    "Cases": 28.0
+  },
+  {
+    "Country": "FRA",
+    "Year": 2023,
+    "Cases": 117.0
+  },
+  {
+    "Country": "FSM",
+    "Year": 2023,
+    "Cases": 1.0
+  },
+  {
+    "Country": "GAB",
+    "Year": 2024,
+    "Cases": 32.0
+  },
+  {
+    "Country": "GBR",
+    "Year": 2024,
+    "Cases": 3426.0
+  },
+  {
+    "Country": "GEO",
+    "Year": 2024,
+    "Cases": 350.0
+  },
+  {
+    "Country": "GHA",
+    "Year": 2024,
+    "Cases": 1944.0
+  },
+  {
+    "Country": "GIN",
+    "Year": 2024,
+    "Cases": 577.0
+  },
+  {
+    "Country": "GLOBAL",
+    "Year": 2024,
+    "Cases": 675533.0
+  },
+  {
+    "Country": "GMB",
+    "Year": 2024,
+    "Cases": 8.0
+  },
+  {
+    "Country": "GNB",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GNQ",
+    "Year": 2024,
+    "Cases": 463.0
+  },
+  {
+    "Country": "GRC",
+    "Year": 2024,
+    "Cases": 38.0
+  },
+  {
+    "Country": "GRD",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GTM",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GUM",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "GUY",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "HKG",
+    "Year": 2024,
+    "Cases": 9.0
+  },
+  {
+    "Country": "HND",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "HRV",
+    "Year": 2024,
+    "Cases": 33.0
+  },
+  {
+    "Country": "HTI",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "HUN",
+    "Year": 2024,
+    "Cases": 18.0
+  },
+  {
+    "Country": "IDN",
+    "Year": 2024,
+    "Cases": 6328.0
+  },
+  {
+    "Country": "IND",
+    "Year": 2024,
+    "Cases": 18530.0
+  },
+  {
+    "Country": "IRL",
+    "Year": 2024,
+    "Cases": 207.0
+  },
+  {
+    "Country": "IRN",
+    "Year": 2024,
+    "Cases": 449.0
+  },
+  {
+    "Country": "IRQ",
+    "Year": 2024,
+    "Cases": 32494.0
+  },
+  {
+    "Country": "ISL",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "ISR",
+    "Year": 2022,
+    "Cases": 0.0
+  },
+  {
+    "Country": "ITA",
+    "Year": 2024,
+    "Cases": 1045.0
+  },
+  {
+    "Country": "JAM",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "JOR",
+    "Year": 2024,
+    "Cases": 14.0
+  },
+  {
+    "Country": "JPN",
+    "Year": 2024,
+    "Cases": 45.0
+  },
+  {
+    "Country": "KAZ",
+    "Year": 2024,
+    "Cases": 28147.0
+  },
+  {
+    "Country": "KEN",
+    "Year": 2024,
+    "Cases": 525.0
+  },
+  {
+    "Country": "KGZ",
+    "Year": 2024,
+    "Cases": 14380.0
+  },
+  {
+    "Country": "KHM",
+    "Year": 2024,
+    "Cases": 666.0
+  },
+  {
+    "Country": "KIR",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "KNA",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "KOR",
+    "Year": 2024,
+    "Cases": 49.0
+  },
+  {
+    "Country": "KWT",
+    "Year": 2024,
+    "Cases": 7.0
+  },
+  {
+    "Country": "LAO",
+    "Year": 2024,
+    "Cases": 1.0
+  },
+  {
+    "Country": "LBN",
+    "Year": 2024,
+    "Cases": 74.0
+  },
+  {
+    "Country": "LBR",
+    "Year": 2024,
+    "Cases": 1053.0
+  },
+  {
+    "Country": "LBY",
+    "Year": 2024,
+    "Cases": 207.0
+  },
+  {
+    "Country": "LCA",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "LKA",
+    "Year": 2024,
+    "Cases": 298.0
+  },
+  {
+    "Country": "LSO",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "LTU",
+    "Year": 2024,
+    "Cases": 30.0
+  },
+  {
+    "Country": "LUX",
+    "Year": 2024,
+    "Cases": 3.0
+  },
+  {
+    "Country": "LVA",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MAC",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MAR",
+    "Year": 2018,
+    "Cases": 483.0
+  },
+  {
+    "Country": "MCO",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "MDA",
+    "Year": 2024,
+    "Cases": 216.0
+  },
+  {
+    "Country": "MDG",
+    "Year": 2024,
+    "Cases": 104.0
+  },
+  {
+    "Country": "MDV",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "MEX",
+    "Year": 2024,
+    "Cases": 7.0
+  },
+  {
+    "Country": "MHL",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MKD",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "MLI",
+    "Year": 2024,
+    "Cases": 366.0
+  },
+  {
+    "Country": "MLT",
+    "Year": 2024,
+    "Cases": 10.0
+  },
+  {
+    "Country": "MMR",
+    "Year": 2024,
+    "Cases": 30.0
+  },
+  {
+    "Country": "MNE",
+    "Year": 2024,
+    "Cases": 35.0
+  },
+  {
+    "Country": "MNG",
+    "Year": 2024,
+    "Cases": 12.0
+  },
+  {
+    "Country": "MNP",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MOZ",
+    "Year": 2024,
+    "Cases": 1237.0
+  },
+  {
+    "Country": "MRT",
+    "Year": 2024,
+    "Cases": 1107.0
+  },
+  {
+    "Country": "MSR",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MUS",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "MWI",
+    "Year": 2024,
+    "Cases": 958.0
+  },
+  {
+    "Country": "MYS",
+    "Year": 2024,
+    "Cases": 3791.0
+  },
+  {
+    "Country": "NAM",
+    "Year": 2024,
+    "Cases": 15.0
+  },
+  {
+    "Country": "NCL",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "NER",
+    "Year": 2024,
+    "Cases": 2362.0
+  },
+  {
+    "Country": "NGA",
+    "Year": 2024,
+    "Cases": 14999.0
+  },
+  {
+    "Country": "NIC",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "NIU",
+    "Year": 2022,
+    "Cases": 0.0
+  },
+  {
+    "Country": "NLD",
+    "Year": 2024,
+    "Cases": 202.0
+  },
+  {
+    "Country": "NOR",
+    "Year": 2024,
+    "Cases": 10.0
+  },
+  {
+    "Country": "NPL",
+    "Year": 2024,
+    "Cases": 113.0
+  },
+  {
+    "Country": "NRU",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "NZL",
+    "Year": 2024,
+    "Cases": 1.0
+  },
+  {
+    "Country": "OMN",
+    "Year": 2024,
+    "Cases": 13.0
+  },
+  {
+    "Country": "PAK",
+    "Year": 2024,
+    "Cases": 24709.0
+  },
+  {
+    "Country": "PAN",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PER",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "PHL",
+    "Year": 2024,
+    "Cases": 3844.0
+  },
+  {
+    "Country": "PLW",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PNG",
+    "Year": 2024,
+    "Cases": 47.0
+  },
+  {
+    "Country": "POL",
+    "Year": 2024,
+    "Cases": 272.0
+  },
+  {
+    "Country": "PRK",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PRT",
+    "Year": 2024,
+    "Cases": 35.0
+  },
+  {
+    "Country": "PRY",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "PSE",
+    "Year": 2023,
+    "Cases": 3.0
+  },
+  {
+    "Country": "PYF",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "QAT",
+    "Year": 2024,
+    "Cases": 55.0
+  },
+  {
+    "Country": "ROU",
+    "Year": 2024,
+    "Cases": 25505.0
+  },
+  {
+    "Country": "RUS",
+    "Year": 2024,
+    "Cases": 22455.0
+  },
+  {
+    "Country": "RWA",
+    "Year": 2024,
+    "Cases": 53.0
+  },
+  {
+    "Country": "SAU",
+    "Year": 2024,
+    "Cases": 1260.0
+  },
+  {
+    "Country": "SDN",
+    "Year": 2024,
+    "Cases": 1337.0
+  },
+  {
+    "Country": "SEAR",
+    "Year": 2024,
+    "Cases": 33752.0
+  },
+  {
+    "Country": "SEN",
+    "Year": 2024,
+    "Cases": 496.0
+  },
+  {
+    "Country": "SGP",
+    "Year": 2024,
+    "Cases": 12.0
+  },
+  {
+    "Country": "SLB",
+    "Year": 2023,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SLE",
+    "Year": 2024,
+    "Cases": 129.0
+  },
+  {
+    "Country": "SLV",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SMR",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "SOM",
+    "Year": 2024,
+    "Cases": 1529.0
+  },
+  {
+    "Country": "SRB",
+    "Year": 2024,
+    "Cases": 892.0
+  },
+  {
+    "Country": "SSD",
+    "Year": 2024,
+    "Cases": 3114.0
+  },
+  {
+    "Country": "STP",
+    "Year": 2021,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SUR",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SVK",
+    "Year": 2024,
+    "Cases": 4.0
+  },
+  {
+    "Country": "SVN",
+    "Year": 2024,
+    "Cases": 17.0
+  },
+  {
+    "Country": "SWE",
+    "Year": 2024,
+    "Cases": 38.0
+  },
+  {
+    "Country": "SWZ",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SXM",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "SYC",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "SYR",
+    "Year": 2024,
+    "Cases": 128.0
+  },
+  {
+    "Country": "TCA",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "TCD",
+    "Year": 2024,
+    "Cases": 6978.0
+  },
+  {
+    "Country": "TGO",
+    "Year": 2024,
+    "Cases": 353.0
+  },
+  {
+    "Country": "THA",
+    "Year": 2024,
+    "Cases": 8202.0
+  },
+  {
+    "Country": "TJK",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TKL",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TKM",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TLS",
+    "Year": 2024,
+    "Cases": 2.0
+  },
+  {
+    "Country": "TON",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TTO",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TUN",
+    "Year": 2024,
+    "Cases": 16.0
+  },
+  {
+    "Country": "TUR",
+    "Year": 2023,
+    "Cases": 5088.0
+  },
+  {
+    "Country": "TUV",
+    "Year": 2019,
+    "Cases": 0.0
+  },
+  {
+    "Country": "TZA",
+    "Year": 2024,
+    "Cases": 992.0
+  },
+  {
+    "Country": "UGA",
+    "Year": 2024,
+    "Cases": 2180.0
+  },
+  {
+    "Country": "UKR",
+    "Year": 2024,
+    "Cases": 433.0
+  },
+  {
+    "Country": "URY",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "USA",
+    "Year": 2023,
+    "Cases": 121.0
+  },
+  {
+    "Country": "UZB",
+    "Year": 2024,
+    "Cases": 20940.0
+  },
+  {
+    "Country": "VCT",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "VEN",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "VGB",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "VNM",
+    "Year": 2024,
+    "Cases": 7854.0
+  },
+  {
+    "Country": "VUT",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "WB_HI",
+    "Year": 2024,
+    "Cases": 57733.0
+  },
+  {
+    "Country": "WB_LI",
+    "Year": 2024,
+    "Cases": 356423.0
+  },
+  {
+    "Country": "WB_LMI",
+    "Year": 2024,
+    "Cases": 117515.0
+  },
+  {
+    "Country": "WB_UMI",
+    "Year": 2024,
+    "Cases": 112831.0
+  },
+  {
+    "Country": "WLF",
+    "Year": 2018,
+    "Cases": 0.0
+  },
+  {
+    "Country": "WPR",
+    "Year": 2024,
+    "Cases": 17651.0
+  },
+  {
+    "Country": "WSM",
+    "Year": 2024,
+    "Cases": 0.0
+  },
+  {
+    "Country": "XKX",
+    "Year": 2023,
+    "Cases": 1.0
+  },
+  {
+    "Country": "YEM",
+    "Year": 2024,
+    "Cases": 5992.0
+  },
+  {
+    "Country": "ZAF",
+    "Year": 2024,
+    "Cases": 931.0
+  },
+  {
+    "Country": "ZMB",
+    "Year": 2024,
+    "Cases": 299.0
+  },
+  {
+    "Country": "ZWE",
+    "Year": 2023,
+    "Cases": 5532.0
+  }
+]
