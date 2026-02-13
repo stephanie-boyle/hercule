@@ -90,7 +90,6 @@ class Neo4jManager:
                 "score": round(float(row['score']), 4)
             })
 
-        # We use MATCH here instead of MERGE because nodes should already exist 
         # from the factual triples upload.
         cypher = f"""
         UNWIND $batches AS item

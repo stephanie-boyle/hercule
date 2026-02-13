@@ -19,6 +19,10 @@ from src.storage.neo4j_manager import Neo4jManager
 load_dotenv()
 current_date = datetime.now().strftime("%Y%m%d")
 
+# 1. Load Environment Variables
+load_dotenv()
+
+# 2. Setup Logging
 log_dir = "logs"
 os.makedirs(log_dir, exist_ok=True)
 log_filename = os.path.join(log_dir, f"{current_date}_surveillance.log")
